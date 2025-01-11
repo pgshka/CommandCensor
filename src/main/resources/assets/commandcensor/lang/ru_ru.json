@@ -1,0 +1,7 @@
+{
+  "commandcensor.midnightconfig.title": "Основная Конфигурация Цензора Команд",
+  "commandcensor.midnightconfig.enabled": "Включено",
+  "commandcensor.midnightconfig.hideLength": "Скрыть Длину",
+  "commandcensor.midnightconfig.hideSuggestion": "Скрыть Предложения",
+  "commandcensor.midnightconfig.commands": "Команды для Цензуры"
+}
